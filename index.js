@@ -703,7 +703,7 @@ const config = require("./config.js");
 const discord = require("discord.js");
 
 
-app.listen(30);
+app.listen(3000);
 client.login(Token).then(() => {
   client.clean()
   console.log(
