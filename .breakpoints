@@ -1,0 +1,18 @@
+{
+  "files": {
+    "config.js": [
+      {
+        "id": "bf59b1f7-6090-45b5-97b5-b2109657d38a",
+        "line": 1,
+        "version": 323,
+        "index": 0
+      },
+      {
+        "id": "f843f06d-018d-4501-9c1d-75afbd22d3d3",
+        "line": 5,
+        "version": 323,
+        "index": 223
+      }
+    ]
+  }
+}
