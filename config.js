@@ -8,7 +8,7 @@ module.exports = {
   oauth_link: process.env.auth,//evet burası önemli dikkatli izleyiniz
   client_id: process.env.id,//bot id
   logchannel: "",// channel
-  autoroleserver: ,
+  autoroleserver: "",
   autoroleid: process.env.autoroleid, // do it work? Auto role. 
   client_secret: process.env.secret,
   redirect_uri: process.env.redirect,
